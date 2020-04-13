@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allen/rep/fpis5.16/target/scala-2.13/fpis5-16_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Stream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes/Stream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Stream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes/Stream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamScanRight$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes/StreamScanRight$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamScanRight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes/StreamScanRight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes/Empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes/Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes/Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamScanRight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes/StreamScanRight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis5.16/target/scala-2.13/classes/Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

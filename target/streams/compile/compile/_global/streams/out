@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/allen/rep/fpis5.16/src/main/scala/StreamScanRight.scala:122:35: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : (A, S) => S[0m
+[0m[[0m[31merror[0m] [0m[0m required: (A, => S) => S[0m
+[0m[[0m[31merror[0m] [0m[0m    this.tails.map{_.foldRight(z)(f)}[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
